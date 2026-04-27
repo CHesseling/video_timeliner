@@ -1,5 +1,7 @@
 # Video Timeliner
 
+![Video Timeliner screenshot](./video-timeliner.png)
+
 Local web app for importing social video clips, aligning them on a shared timeline, and rendering a synchronized multi-clip output video.
 
 ## Requirements
