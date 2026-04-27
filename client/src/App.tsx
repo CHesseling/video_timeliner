@@ -52,7 +52,7 @@ export default function App() {
       {/* Main area */}
       <div className="flex flex-1 min-h-0">
         {/* Left sidebar */}
-        <div className="w-64 shrink-0 flex flex-col gap-4 p-4 bg-zinc-900 border-r border-zinc-800 overflow-y-auto">
+        <div className="w-80 max-w-[42vw] shrink-0 flex flex-col gap-4 p-4 bg-zinc-900 border-r border-zinc-800 overflow-y-auto">
           <ImportPanel />
           <ClipList />
           <div className="mt-auto flex flex-col gap-4">
